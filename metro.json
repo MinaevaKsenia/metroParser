@@ -1,0 +1,426 @@
+[
+  {
+    "id": "366305",
+    "name": "RIOBA Шоколад молочный (5г х 160шт), 800г",
+    "link": "https://online.metro-cc.ru/products/rioba-porcionnyj-molochnyj-32-kakao-800g",
+    "regular price": "809",
+    "promo price": "729",
+    "brand": "RIOBA"
+  },
+  {
+    "id": "138161",
+    "name": "RIOBA Мини-шоколад Ассорти 6 вкусов, 800г",
+    "link": "https://online.metro-cc.ru/products/800g-mini-shokolad-rioba-assorti-6-vkusov",
+    "regular price": "939",
+    "promo price": "849",
+    "brand": "RIOBA"
+  },
+  {
+    "id": "366306",
+    "name": "RIOBA Шоколад горький (5г х 160шт), 800г",
+    "link": "https://online.metro-cc.ru/products/rioba-porcionnyj-gorkij-72-kakao-800g",
+    "regular price": "809",
+    "promo price": "729",
+    "brand": "RIOBA"
+  },
+  {
+    "id": "401987",
+    "name": "Батончик Twix Экстра шоколадный, 82г",
+    "link": "https://online.metro-cc.ru/products/art_401987",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "TWIX"
+  },
+  {
+    "id": "337582",
+    "name": "Набор шоколада Ritter Sport Mini порционного, 1.4кг",
+    "link": "https://online.metro-cc.ru/products/ritter-sport-nabor-porcionnogo-mini-14kg",
+    "regular price": "1 890",
+    "promo price": "2079",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "117793",
+    "name": "Батончик Snickers Super шоколадный, 80г x 32 шт",
+    "link": "https://online.metro-cc.ru/products/80g-snickers-super-117793",
+    "regular price": "2 172",
+    "promo price": "2172.8",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "121735",
+    "name": "Драже M&M's с арахисом, 80г",
+    "link": "https://online.metro-cc.ru/products/80g-drazhe-m-m-039s-s-arahisom",
+    "regular price": "106",
+    "promo price": "79.9",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "363767",
+    "name": "Батончик Snickers шоколадный с лесным орехом, 81г",
+    "link": "https://online.metro-cc.ru/products/snickers-c-lesnym-orehom-81g",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "401982",
+    "name": "Батончик Bounty Трио шоколадный, 83г",
+    "link": "https://online.metro-cc.ru/products/bounty-trio-825g-401982",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "BOUNTY"
+  },
+  {
+    "id": "445183",
+    "name": "Конфеты M&M's Драже с арахисом, 360г",
+    "link": "https://online.metro-cc.ru/products/m-m-039s-drazhe-s-arahisom-360g",
+    "regular price": "359",
+    "promo price": "379",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "438717",
+    "name": "Шоколад Вдохновение классический, 100г",
+    "link": "https://online.metro-cc.ru/products/vdohnovenie-klassicheskij-100g",
+    "regular price": "135",
+    "promo price": "142",
+    "brand": "ВДОХНОВЕНИЕ"
+  },
+  {
+    "id": "335607",
+    "name": "Батончик Kinder Bueno вафельный в молочном шоколаде 43г x 3шт, 129г",
+    "link": "https://online.metro-cc.ru/products/vafli-kinder-nbspbueno-v-molochnom-43gh3sht",
+    "regular price": "227",
+    "promo price": "239",
+    "brand": "KINDER BUENO"
+  },
+  {
+    "id": "453396",
+    "name": "Шоколад Априори горький 99% какао (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/gorkij-apriori-99-kakao-100g",
+    "regular price": "217",
+    "promo price": "229",
+    "brand": "АПРИОРИ"
+  },
+  {
+    "id": "121736",
+    "name": "Драже M&M's с молочным шоколадом, 80г",
+    "link": "https://online.metro-cc.ru/products/80g-drazhe-m-m-039s-s-molochnym",
+    "regular price": "106",
+    "promo price": "79.9",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "456038",
+    "name": "Батончик Snickers шоколадный, 51г x 48 шт",
+    "link": "https://online.metro-cc.ru/products/snickers-c-arahisom-505g-h-48sht",
+    "regular price": "2 155",
+    "promo price": "2155.2",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "619953",
+    "name": "Шоколад Победа вкуса молочный без сахара 36% какао, 100г",
+    "link": "https://online.metro-cc.ru/products/pobeda-molochnyj-32-kakao-bez-sahara-100-g",
+    "regular price": "154",
+    "promo price": "119",
+    "brand": "ПОБЕДА"
+  },
+  {
+    "id": "228777",
+    "name": "Батончик Bounty шоколадный с мякотью кокоса, 55г x 32 шт",
+    "link": "https://online.metro-cc.ru/products/bounty-s-myakotyu-kokosa-v-molochnmm-55g-h-32sht",
+    "regular price": "1 436",
+    "promo price": "1436.8",
+    "brand": "BOUNTY"
+  },
+  {
+    "id": "401984",
+    "name": "Батончик Milky Way шоколадный, 26г",
+    "link": "https://online.metro-cc.ru/products/shokoladnyj-batonchik-milky-way-26-g",
+    "regular price": "19",
+    "promo price": "18.29",
+    "brand": "MILKY WAY"
+  },
+  {
+    "id": "401986",
+    "name": "Батончик Twix шоколадный карамель, 55г",
+    "link": "https://online.metro-cc.ru/products/twix-40h55g-401986",
+    "regular price": "44",
+    "promo price": "46.99",
+    "brand": "TWIX"
+  },
+  {
+    "id": "121754",
+    "name": "Драже M&M's с арахисом, 145г",
+    "link": "https://online.metro-cc.ru/products/145g-drazhe-m-m-039s-s-arahisom",
+    "regular price": "177",
+    "promo price": "186",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "456037",
+    "name": "Батончик Snickers шоколадный, 51г",
+    "link": "https://online.metro-cc.ru/products/snickers-c-arahisom-505g",
+    "regular price": "44",
+    "promo price": "46.99",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "114125",
+    "name": "Батончик Bounty шоколадный 27.5г х 6шт, 165г",
+    "link": "https://online.metro-cc.ru/products/6h275g-konfety-bounty-shokoladnye-mp",
+    "regular price": "142",
+    "promo price": "149",
+    "brand": "BOUNTY"
+  },
+  {
+    "id": "636871",
+    "name": "Вафли Kinder Bueno White в белом шоколаде, 39г",
+    "link": "https://online.metro-cc.ru/products/vafli-kinder-nbspbueno-white-v-belom-39g",
+    "regular price": "87",
+    "promo price": "91.9",
+    "brand": "KINDER BUENO"
+  },
+  {
+    "id": "559452",
+    "name": "Шоколад Ritter Sport молочный Цельный лесной орех, 100г",
+    "link": "https://online.metro-cc.ru/products/ritter-sport-molochnyj-celnyj-lesnoj-oreh-100g",
+    "regular price": "169",
+    "promo price": "169",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "60050",
+    "name": "Шоколад Ritter Sport Темный 74% какао с насыщенным вкусом из Перу, 100г",
+    "link": "https://online.metro-cc.ru/products/ritter-sport-temnyj-74-kakao-100g",
+    "regular price": "169",
+    "promo price": "169",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "219612",
+    "name": "Батончик Twix Xtra шоколадный соленая карамель, 82г",
+    "link": "https://online.metro-cc.ru/products/82g-shokoladnyy-batonchik-twix-xtra-solenaya-karamel",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "TWIX"
+  },
+  {
+    "id": "451517",
+    "name": "Шоколад Бабаевский со сливочной начинкой, 50г",
+    "link": "https://online.metro-cc.ru/products/babaevskij-so-slivochnoj-nachinkoj-50g",
+    "regular price": "49",
+    "promo price": "49.99",
+    "brand": "БАБАЕВСКИЙ"
+  },
+  {
+    "id": "508604",
+    "name": "Шоколад Bucheron молочный с фисташками, 100г",
+    "link": "https://online.metro-cc.ru/products/bucheron-molochnyj-s-fistashkami-100g",
+    "regular price": "349",
+    "promo price": "369",
+    "brand": "BUCHERON"
+  },
+  {
+    "id": "445187",
+    "name": "Конфеты M&M's Драже с молочным шоколадом, 360г",
+    "link": "https://online.metro-cc.ru/products/m-ms-drazhe-s-molochnym-shokoladom-360g",
+    "regular price": "359",
+    "promo price": "379",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "117603",
+    "name": "Батончик Snickers Super шоколадный, 80г",
+    "link": "https://online.metro-cc.ru/products/80g-snickers-super",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "523367",
+    "name": "Батончик Picnic с арахисом, карамелью шоколадный, 38г",
+    "link": "https://online.metro-cc.ru/products/picnic-s-arahisom-karamelyu-38-g",
+    "regular price": "47",
+    "promo price": "49.49",
+    "brand": "PICNIC"
+  },
+  {
+    "id": "453148",
+    "name": "Батончик Mars Max шоколадный, 81г",
+    "link": "https://online.metro-cc.ru/products/art_453148",
+    "regular price": "74",
+    "promo price": "64.9",
+    "brand": "MARS"
+  },
+  {
+    "id": "469410",
+    "name": "Шоколад Бабаевский Вдохновение горький с миндалем 75% какао, 100г",
+    "link": "https://online.metro-cc.ru/products/babaevskij-vdohnovenie-gorkij-s-mindalem-75-kakao-100g",
+    "regular price": "135",
+    "promo price": "142",
+    "brand": "ВДОХНОВЕНИЕ"
+  },
+  {
+    "id": "567224",
+    "name": "Шоколад Bucheron горький с миндалем, клюквой и фисташками 72% какао, 100г",
+    "link": "https://online.metro-cc.ru/products/bucheron-gorkij-s-mindalem-klyukvoj-fistashkami-72-kakao-100g",
+    "regular price": "249",
+    "promo price": "179",
+    "brand": "BUCHERON"
+  },
+  {
+    "id": "121734",
+    "name": "Драже M&M's криспи, 70г",
+    "link": "https://online.metro-cc.ru/products/70g-drazhe-m-m-039s-krispi",
+    "regular price": "106",
+    "promo price": "79.9",
+    "brand": "M&M'S"
+  },
+  {
+    "id": "528977",
+    "name": "Шоколад Lindt Excellence Темный с карамелью и морской солью, 100г",
+    "link": "https://online.metro-cc.ru/products/lindt-excellence-temnyj-s-karamelyu-morskoj-solyu-100g",
+    "regular price": "329",
+    "promo price": "239",
+    "brand": "LINDT"
+  },
+  {
+    "id": "",
+    "name": "",
+    "link": "https://online.metro-cc.ru/products/4h40g-batonchik-snickers-shokoladnyj-mp",
+    "regular price": "",
+    "promo price": "149",
+    "brand": "SNICKERS"
+  },
+  {
+    "id": "559454",
+    "name": "Шоколад Ritter Sport темный Цельный лесной орех, 100г",
+    "link": "https://online.metro-cc.ru/products/ritter-sport-temnyj-celnyj-lesnoj-oreh-100g",
+    "regular price": "169",
+    "promo price": "169",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "114902",
+    "name": "Шоколад Россия Щедрая душа Очень молочный, 82г",
+    "link": "https://online.metro-cc.ru/products/molochnyj-rossiya-schedraya-dusha-82g",
+    "regular price": "59",
+    "promo price": "70.9",
+    "brand": "РОССИЯ ЩЕДРАЯ ДУША"
+  },
+  {
+    "id": "401980",
+    "name": "Батончик Bounty шоколадный с мякотью кокоса, 55г",
+    "link": "https://online.metro-cc.ru/products/bounty-s-myakotyu-kokosa-55g",
+    "regular price": "44",
+    "promo price": "46.99",
+    "brand": "BOUNTY"
+  },
+  {
+    "id": "34152",
+    "name": "Шоколад Ritter Sport темный миндаль и апельсин, 100г",
+    "link": "https://online.metro-cc.ru/products/temnyj-ritter-sport-mindal-apelsin-s-droblenym-mindalem-kusochkami-apelsinovoj-cedry-100g",
+    "regular price": "157",
+    "promo price": "139",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "468841",
+    "name": "Шоколад Toblerone молочный с медово-миндальной нугой, 100 г",
+    "link": "https://online.metro-cc.ru/products/molochnyj-toblerone-100g-468841",
+    "regular price": "299",
+    "promo price": "309",
+    "brand": "TOBLERONE"
+  },
+  {
+    "id": "495289",
+    "name": "Шоколад Ritter Sport молочный ром-изюм-орех, 100г",
+    "link": "https://online.metro-cc.ru/products/ritter-sport-molochnyj-rom-izyum-oreh-100g",
+    "regular price": "157",
+    "promo price": "139",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "248140",
+    "name": "Батончик Twix Экстра шоколадный, 82г x 24 шт",
+    "link": "https://online.metro-cc.ru/products/twix-ekstra-82g-248140",
+    "regular price": "1 629",
+    "promo price": "1629.6",
+    "brand": "TWIX"
+  },
+  {
+    "id": "112681",
+    "name": "Шоколад Milka молочный с фундуком, 85г",
+    "link": "https://online.metro-cc.ru/products/milka-shokolad-molochnyj-s-fundukom-85g",
+    "regular price": "113",
+    "promo price": "99.9",
+    "brand": "MILKA"
+  },
+  {
+    "id": "469331",
+    "name": "Батончик Milky Way шоколадный 1+1, 52г",
+    "link": "https://online.metro-cc.ru/products/milky-way-1-1-52g",
+    "regular price": "51",
+    "promo price": "44.9",
+    "brand": "MILKY WAY"
+  },
+  {
+    "id": "114124",
+    "name": "Батончик Twix шоколадный 55г х 3шт, 165г",
+    "link": "https://online.metro-cc.ru/products/3h55g-batonchik-twix-shokoladnyj-mp",
+    "regular price": "142",
+    "promo price": "149",
+    "brand": "TWIX"
+  },
+  {
+    "id": "453397",
+    "name": "Шоколад Априори Горький 85% какао (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/gorkij-apriori-85-kakao-100g",
+    "regular price": "179",
+    "promo price": "189",
+    "brand": "АПРИОРИ"
+  },
+  {
+    "id": "206091",
+    "name": "Шоколад Ritter Sport вафля-какао-мусс, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-shokolad-ritter-sport-vaflyakakao-muss",
+    "regular price": "157",
+    "promo price": "139",
+    "brand": "RITTER SPORT"
+  },
+  {
+    "id": "548125",
+    "name": "Шоколад Dove молочный, 90г",
+    "link": "https://online.metro-cc.ru/products/art_548125",
+    "regular price": "119",
+    "promo price": "109",
+    "brand": "DOVE"
+  },
+  {
+    "id": "539287",
+    "name": "Шоколад Воздушный белый пористый, 85г",
+    "link": "https://online.metro-cc.ru/products/belyj-vozdushnyj-poristyj-85g-539287",
+    "regular price": "129",
+    "promo price": "134",
+    "brand": "ВОЗДУШНЫЙ"
+  },
+  {
+    "id": "135967",
+    "name": "RIOBA Шоколад молочный 32% какао, 20г",
+    "link": "https://online.metro-cc.ru/products/20g-shokolad-rioba-molochnyy-32-kakao-135967",
+    "regular price": "20",
+    "promo price": "20.9",
+    "brand": "RIOBA"
+  },
+  {
+    "id": "539288",
+    "name": "Шоколад Воздушный молочный пористый, 85г",
+    "link": "https://online.metro-cc.ru/products/molochnyj-vozdushnyj-poristyj-85g-539288",
+    "regular price": "129",
+    "promo price": "124",
+    "brand": "ВОЗДУШНЫЙ"
+  }
+]
